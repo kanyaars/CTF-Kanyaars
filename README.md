@@ -4,8 +4,12 @@ Welcome to my playground, my personal space for documenting Capture The Flag (CT
 
 This repository contains structured reports, technical notes, and step-by-step breakdowns of security challenges I've worked.
 
+---
+
 ## Capture The Flag (CTF)
 > CTF Try Out
+
+---
 
 ## Disclaimer
 > All activities recorded in this repository were performed in ethical and controlled environments, such as CTF platforms or intentionally vulnerable systems.  
