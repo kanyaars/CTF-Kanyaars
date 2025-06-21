@@ -7,7 +7,7 @@ Welcome to the **Hack The Box CTF Try Out** — a virtual arena designed for any
 ## Event Details
 
 - **Start Date:** January 1st, 2024 – 19:00
-- **End Date:** December 31st, 2024 – 19:00
+- **End Date:** December 31st, 19:00
 - **Event Type:** Public
 - **Format:** Jeopardy-style
 - **Location:** Online
