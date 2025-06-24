@@ -3,7 +3,7 @@
 ## Challenge Overview
 
 **Name:** TimeKORP
-**Category:** Reversing
+**Category:** Web
 **Difficulty:** Very Easy
 
 ### Description:

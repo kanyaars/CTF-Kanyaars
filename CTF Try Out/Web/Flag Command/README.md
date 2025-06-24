@@ -3,7 +3,7 @@
 ## Challenge Overview
 
 **Name:** Flag Command
-**Category:** Reversing
+**Category:** Web
 **Difficulty:** Very Easy
 
 ### Description:

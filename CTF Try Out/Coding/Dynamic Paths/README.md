@@ -3,7 +3,7 @@
 ## Challenge Overview
 
 **Name:** Dynamic Paths
-**Category:** Reversing
+**Category:** Coding
 **Difficulty:** Easy
 
 ### Description:

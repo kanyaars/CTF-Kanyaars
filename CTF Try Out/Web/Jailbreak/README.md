@@ -3,7 +3,7 @@
 ## Challenge Overview
 
 **Name:** Jailbreak
-**Category:** Reversing
+**Category:** Web
 **Difficulty:** Very Easy
 
 ### Description:
