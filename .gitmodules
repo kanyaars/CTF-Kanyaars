@@ -1,0 +1,3 @@
+[submodule "CTF Try Out/Blockchain/NotADemocraticElection/blockchain_notademocraticelection/notademocratic/lib/forge-std"]
+	path = CTF Try Out/Blockchain/NotADemocraticElection/blockchain_notademocraticelection/notademocratic/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
