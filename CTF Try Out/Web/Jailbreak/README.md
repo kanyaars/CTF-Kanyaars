@@ -122,4 +122,4 @@ This payload successfully triggered the file read from `/flag.txt`.
 HTB{b1om3tric_l0cks_4nd_fl1cker1ng_l1ghts_d22128d8ecb3f9f9a45cdb341917fb5b}
 ```
 
-GOODD GUYSSSS~
+May god with us~
