@@ -17,7 +17,6 @@ def solve_min_path_sum(grid, rows, cols):
 
     return dp[-1][-1]
 
-# Koneksi ke server
 HOST = "94.237.122.164"
 PORT = 45007
 
@@ -30,7 +29,6 @@ with socket.create_connection((HOST, PORT)) as s:
             break
         print(line.strip())
 
-        # Cek apakah kita di tahap soal
         if re.match(r"Test \d+/\d+", line):
             size_line = f.readline().strip()
             print(size_line)
@@ -47,7 +45,6 @@ with socket.create_connection((HOST, PORT)) as s:
                 print("[!] Jumlah elemen tidak sesuai ukuran grid")
                 continue
 
-            # Bentuk grid dan solve
             grid = [numbers[i * cols:(i + 1) * cols] for i in range(rows)]
             result = solve_min_path_sum(grid, rows, cols)
             print(f"> {result}")
