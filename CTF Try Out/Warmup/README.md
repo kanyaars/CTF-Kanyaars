@@ -46,7 +46,4 @@ Spawn the provided Docker environment, connect to the given IP, and retrieve the
 HTB{onboard1ng_fl4g}
 ```
 
----
-
-
-You're now ready to tackle the rest of the HTB CTF challenges!
+May god with us~

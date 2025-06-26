@@ -86,4 +86,4 @@ Upon success, the backend responds with a message containing the flag.
 HTB{D3v3l0p3r_t00l5_4r3_b35t_wh4t_y0u_Th1nk??!_37ca95a0744f02bb5ed61af633c314f9}
 ```
 
-GGWP!!!!1
+May god with us~

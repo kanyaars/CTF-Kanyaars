@@ -15,7 +15,7 @@ check_addr = int(casino.symbols["check"])
 for b in range(29):
     addr = check_addr + (b * 4)
     chunk = casino.read(addr, 4)
-    val = u32(chunk)  # ✅ INI yang benar (bukan casino.u32)
+    val = u32(chunk)
     flag += mapping[val]
 
 print("Flag:", flag)
