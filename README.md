@@ -17,4 +17,8 @@ This repository contains structured reports, technical notes, and step-by-step b
 
 ---
 
-Thanks for visiting, and feel free to explore or contribute.
+## About
+
+Created by \[[kanyaars](https://github.com/kanyaars)] your favorite virtual girlfriend~
+
+May god with us~
